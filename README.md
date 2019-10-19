@@ -19,74 +19,8 @@
 <p><strong><a href="https://github.com/saulo1212/projects-settings/blob/master/visual-studio-code.md">Instalação e Configuração do Visual Studio Code</a></strong></p>
 </li>
 <li>
-<p><strong>Instalação e Configuração do Terminal</strong></p>
-<ul>
-<li><a href="/osvaldokalvaitir/projects-settings/blob/master/terminal/oh-my-zsh/oh-my-zsh.md">Linux</a></li>
-<li><a href="/osvaldokalvaitir/projects-settings/blob/master/terminal/oh-my-zsh/oh-my-zsh.md">macOS</a></li>
-<li><a href="/osvaldokalvaitir/projects-settings/blob/master/terminal/hyper.md">Windows</a></li>
-</ul>
-</li>
-<li>
-<p><strong><a href="/osvaldokalvaitir/projects-settings/blob/master/browser/chrome/chrome.md">Instalação e Configuração do Chrome</a></strong></p>
-</li>
-<li>
-<p><strong><a href="/osvaldokalvaitir/projects-settings/blob/master/api/insomnia.md">Instalação do Insomnia</a></strong></p>
-</li>
-<li>
-<p><strong><a href="/osvaldokalvaitir/projects-settings/blob/master/doc/devdocs-desktop.md">Instalação do DevDocs Desktop</a></strong></p>
-</li>
-<li>
-<p><strong>Instalação do Gerenciador de Pacotes</strong></p>
-<ul>
-<li><a href="/osvaldokalvaitir/projects-settings/blob/master/package-manager/curl.md">Linux</a></li>
-<li><a href="/osvaldokalvaitir/projects-settings/blob/master/package-manager/homebrew.md">macOS</a></li>
-<li><a href="/osvaldokalvaitir/projects-settings/blob/master/package-manager/chocolatey.md">Windows</a></li>
-</ul>
-</li>
-<li>
-<p><strong><a href="/osvaldokalvaitir/projects-settings/blob/master/nodejs/nodejs.md">Instalação do Node.js</a></strong></p>
-</li>
-<li>
-<p><strong><a href="/osvaldokalvaitir/projects-settings/blob/master/nodejs/package-managers/yarn.md">Instalação do Yarn</a></strong></p>
-</li>
-<li>
-<p><strong>Ambiente Android</strong></p>
-<ul>
-<li>
-<p><strong>Linux</strong><br>
-1. <a href="/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/react-native-cli.md">Instalação do React Native</a><br>
-2. <a href="/osvaldokalvaitir/projects-settings/blob/master/sdk/java-development-kit.md">Instalação do JDK</a><br>
-3. <a href="/osvaldokalvaitir/projects-settings/blob/master/lib/linux.md">Instalação de Libs Gráficas</a></p>
-</li>
-<li>
-<p><strong>OS X</strong><br>
-1. <a href="/osvaldokalvaitir/projects-settings/blob/master/watcher/watchman.md">Instalação do Watchman</a><br>
-2. <a href="/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/react-native-cli.md">Instalação do React Native</a><br>
-3. <a href="/osvaldokalvaitir/projects-settings/blob/master/sdk/java-development-kit.md">Instalação do JDK</a></p>
-</li>
-<li>
-<p><strong>Windows</strong><br>
-1. <a href="/osvaldokalvaitir/projects-settings/blob/master/programming-language/python.md">Instalação do Python</a><br>
-2. <a href="/osvaldokalvaitir/projects-settings/blob/master/sdk/java-development-kit.md">Instalação do JDK</a><br>
-3. <a href="/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/react-native-cli.md">Instalação do React Native</a></p>
-</li>
-<li>
-<p><strong>Finalizando</strong><br>
-4. <a href="/osvaldokalvaitir/projects-settings/blob/master/sdk/android-sdk.md">Instalação e Configuração do Android SDK</a><br>
-5. <a href="/osvaldokalvaitir/projects-settings/blob/master/virtualization/virtualbox.md">Instalação do VirtualBox</a><br>
-6. <a href="/osvaldokalvaitir/projects-settings/blob/master/virtualization/genymotion.md">Instalação e Configuração do Genymotion</a></p>
-</li>
-</ul>
-</li>
-<li>
-<p><strong>Ambiente iOS</strong></p>
-<ul>
-<li><strong>OS X</strong><br>
-1. <a href="/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/react-native-cli.md">Instalação do React Native</a><br>
-2. <a href="/osvaldokalvaitir/projects-settings/blob/master/ide/xcode.md">Instalação do XCode</a></li>
-</ul>
-</li>
+
 </ul>
 
 
-<a href=""> teste </a>
+
