@@ -16,7 +16,7 @@
 
 <ul>
 <li>
-<p><strong><a href="/osvaldokalvaitir/projects-settings/blob/master/code-editor/visual-studio-code/visual-studio-code.md">Instalação e Configuração do Visual Studio Code</a></strong></p>
+<p><strong><a href="https://github.com/saulo1212/projects-settings/blob/master/visual-studio-code.md">Instalação e Configuração do Visual Studio Code</a></strong></p>
 </li>
 <li>
 <p><strong>Instalação e Configuração do Terminal</strong></p>
