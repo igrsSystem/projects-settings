@@ -18,7 +18,7 @@
 <li>
 <p><strong><a href="https://github.com/saulo1212/projects-settings/blob/master/visual-studio-code.md">Instalação e Configuração do Visual Studio Code</a></strong></p>
 </li>
-<li>
+
 
 </ul>
 
