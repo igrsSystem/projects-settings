@@ -8,4 +8,7 @@
 <a href="https://code.visualstudio.com/" rel="nofollow"><img src="https://camo.githubusercontent.com/413770c46777bcacd178298682a68cbc517ea3bb/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d616465253230666f722d5653436f64652d3166343235662e737667" alt="made-for-VSCode" data-canonical-src="https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg" style="max-width:100%;"></a>
 <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/d41b9884bd102b525c8fb9a8c3c8d3bbed2b67f0/68747470733a2f2f6261646765732e66726170736f66742e636f6d2f6f732f76312f6f70656e2d736f757263652e7376673f763d313033"><img src="https://camo.githubusercontent.com/d41b9884bd102b525c8fb9a8c3c8d3bbed2b67f0/68747470733a2f2f6261646765732e66726170736f66742e636f6d2f6f732f76312f6f70656e2d736f757263652e7376673f763d313033" alt="Open Source Love svg1" data-canonical-src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103" style="max-width:100%;"></a></p>
 
+
+<p>Configurações de projetos em Node.js, ReactJS e React Native do GitHub</p>
+
 <a href=""> teste </a>
