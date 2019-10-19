@@ -1,1 +1,1 @@
-<a> teste </a>
+<a href=""> teste </a>
